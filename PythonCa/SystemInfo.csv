@@ -1,0 +1,24 @@
+username,slova
+system,Windows
+Node Name,TheLaptop
+Release,10
+Version,10.0.22621
+Machine,AMD64
+Processor,"Intel64 Family 6 Model 165 Stepping 2, GenuineIntel"
+userDirectory,C:\Users\slova
+Physical cores,6
+Total cores,12
+cpufre,"scpufreq(current=2592.0, min=0.0, max=2592.0)"
+Max Frequency,0
+Min Frequency,0
+Current Frequency,0
+Total CPU Usage,2.0
+svmem,"svmem(total=17010782208, available=7827554304, percent=54.0, used=9183227904, free=7827554304)"
+Total Memory,15
+Available Memory,7
+Used Memory,8
+Memory Percentage,54.0
+swap,"sswap(total=10737418240, used=66822144, free=10670596096, percent=0.6, sin=0, sout=0)"
+Swap Percentage,0.6
+partitions,"[sdiskpart(device='C:\\', mountpoint='C:\\', fstype='NTFS', opts='rw,fixed', maxfile=255, maxpath=260), sdiskpart(device='D:\\', mountpoint='D:\\', fstype='NTFS', opts='rw,fixed', maxfile=255, maxpath=260)]"
+AllPartitions,475 GB
